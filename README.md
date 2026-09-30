@@ -11,4 +11,4 @@ The catalogue lists 70 publications in reverse chronological order. It currently
 Before public deployment, confirm that each linked PDF may be redistributed publicly. Where publisher redistribution is restricted, replace the publisher PDF with an author-accepted manuscript or replace the local link with an authorized open-access or DOI link.
 
 
-For browser-based deployment, `09_2022_modified_k_omega_boundary_layer.pdf` was recompressed from 28.3 MB to 7.1 MB without changing its text, figures, page count or scholarly content. The original byte-identical source remains preserved in the main publication archive and the dated review backup.
+For browser-based deployment, eight large files were optimized to meet GitHub's effective web-upload limit. Six retained their searchable text; `02_2026_historical_outdoor_thermal_discomfort.pdf` and `20_2021_unsteady_microchannel_reduced_models.pdf` are high-resolution, image-based web copies. No pages or scholarly content were added or removed. The original byte-identical, searchable sources remain preserved in the main publication archive and the dated review backup.
